@@ -6,7 +6,7 @@ This is a simple PHP web app that allows you to add users (name and age), displa
 
 # Project Interface
 
-![User Interface](result.png)
+![User Interface](result (2).png)
 
 
 

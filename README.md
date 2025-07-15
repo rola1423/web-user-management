@@ -19,7 +19,7 @@ This is a simple PHP web app that allows you to add users (name and age), displa
 
 
 
-#Features
+# Features
 
 - Input form for name and age
 - Displays all users in a clean table
